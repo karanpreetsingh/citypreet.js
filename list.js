@@ -305,7 +305,7 @@ city[83][16] = "Altenburg|Apolda|Arnstadt|Bad Langensalza|Bad Salzungen|Eisenach
 city[105] = new Array(); /*List of cities in all states of India*/
 city[105][1] = "";
 /*Andaman and Nicobar Islands|Andhra Pradesh|Arunachal Pradesh|Assam|Bihar|Chandigarh|Chhattisgarh|Dadra and Nagar Haveli|Daman and Diu|Delhi|Goa|Gujarat|Haryana|Himachal Pradesh|Jammu and Kashmir|Jharkhand|Karnataka|Kerala|Lakshadweep|Madhya Pradesh|Maharashtra|Manipur|Meghalaya|Mizoram|Nagaland|Orissa|Pondicherry|Punjab|Rajasthan|Sikkim|Tamil Nadu|Tripura|Uttar Pradesh|Uttaranchal|West Bengal*/
-/*List of all cities of all states of the world ends*/
+/*List of all cities of all states of the world  ends*/
 
 /*Functions to list countries, states and cities in select boxes*/
 window.onload=function(){list_country();};
