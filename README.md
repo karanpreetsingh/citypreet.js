@@ -1,5 +1,5 @@
 # cityseek.js
-A javacript based API for use in forms to list out countries, their corresponding states and their corresponding cities.
+It is a javacript based API which is used in forms to list out countries, their corresponding states and their corresponding cities.
 # How to use
 <dl>
 <dt>Download cityseek.js file and include it AT THE END of your document<br>
@@ -11,5 +11,5 @@ A javacript based API for use in forms to list out countries, their correspondin
 <dt>Let cityseek.js do the rest!
 # Contribute
 Lists of all states of all countries have been listed out, but cities of many of those states are not yet listed.
- 
+
 ## Outdated
