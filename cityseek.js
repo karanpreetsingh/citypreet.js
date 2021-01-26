@@ -3,6 +3,7 @@ var country = ["Afghanistan", "Albania", "Algeria", "American Samoa", "Angola", 
 /* List of Countries ends */
 
 /* List of States in all the countries of the world */
+/* There are 253 countries listed*/
 var state = new Array();
 state[0]=""; 
 state[1]="Badakhshan|Badghis|Baghlan|Balkh|Bamian|Farah|Faryab|Ghazni|Ghowr|Helmand|Herat|Jowzjan|Kabol|Kandahar|Kapisa|Konar|Kondoz|Laghman|Lowgar|Nangarhar|Nimruz|Oruzgan|Paktia|Paktika|Parvan|Samangan|Sar-e Pol|Takhar|Vardak|Zabol"; /*Afghanistan*/
